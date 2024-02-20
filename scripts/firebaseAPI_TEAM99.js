@@ -2,12 +2,13 @@
 //  Your web app's Firebase configuration
 //----------------------------------------
 var firebaseConfig = {
-    apiKey: ,
-    authDomain: ,
-    projectId: ,
-    storageBucket: ,
-    messagingSenderId: ,
-    appId:
+    apiKey: "AIzaSyBfRU63MSGd20VuBEnzjXXewTRdOuuV9sI",
+    authDomain: "comp1800ap.firebaseapp.com",
+    projectId: "comp1800ap",
+    storageBucket: "comp1800ap.appspot.com",
+    messagingSenderId: "62794158855",
+    appId: "1:62794158855:web:bbdab3f7e70944cc8d2ba2"
+  
 };
 
 //--------------------------------------------
